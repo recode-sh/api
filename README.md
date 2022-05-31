@@ -4,7 +4,7 @@ This repository contains the source code of the Recode API.
 
 The Recode API is hosted in a private server in the sole goal of implementing the GitHub OAuth flow in a secured manner (ie: without exposing our GitHub secret in the <a href="https://github.com/recode-sh/cli">CLI</a>).
 
-The base URL for the API is: <a href="https://recode-sh-api.herokuapp.com">https://recode-sh-api.herokuapp.com</a>
+The base URL for the API is: <a href="https://api.recode.sh">https://api.recode.sh</a>
 
 ## Table of contents
 - [Requirements](#requirements)
